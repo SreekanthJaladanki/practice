@@ -1,3 +1,7 @@
 Helloo All!!
 Welcome to GIT session!!
+<<<<<<< HEAD
 Thank you
+=======
+Done with the task
+>>>>>>> 7b6691bd45ca58c7da552b8cd1e42c5c9053209a
