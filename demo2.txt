@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Hello all!!!
 Welcome to GIET
 559050243820
+=======
+helllluuuuuuuuuuuuuu
+gooooooood mooooorrrrnnniiiinnnnggggg!!!
+welcome to day-3.
+Hi Bidush here..
+>>>>>>> a2d2bd2002867115bfa16f2a09add801f4240992
