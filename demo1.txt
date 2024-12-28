@@ -1,4 +1,10 @@
 END OF THE SESSION Thank you sir.
 
+<<<<<<< HEAD
 Good morning all.
 
+=======
+good mornig!
+Very good morning.
+>>>>>>> a2d2bd2002867115bfa16f2a09add801f4240992
+mbsbdsjdbsbd
