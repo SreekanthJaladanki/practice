@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello all!!!
 Welcome to GIET
 559050243820
@@ -8,3 +9,11 @@ gooooooood mooooorrrrnnniiiinnnnggggg!!!
 welcome to day-3.
 Hi Bidush here..
 >>>>>>> a2d2bd2002867115bfa16f2a09add801f4240992
+=======
+helllluuuuuuuuuuuuuu  everyone!!!!
+gooooooood mooooorrrrnnniiiinnnnggggg!!!
+welcome to day-3.
+Hi Bidush here..
+GIET University 
+AWS is advantageous
+>>>>>>> babb370e243eab26d50eeec367b550af2b37075e

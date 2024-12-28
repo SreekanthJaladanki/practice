@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Helloo All!!
 Welcome to GIT session!!
 hiii
@@ -8,3 +9,11 @@ END OF THE SESSION Thank you sir.
 good mornig!
 Very good morning.
 >>>>>>> a2d2bd2002867115bfa16f2a09add801f4240992
+=======
+END THE SESSION Thank you sir.
+
+good mornig!
+Very good morning.
+HELLO
+BKS is here
+>>>>>>> babb370e243eab26d50eeec367b550af2b37075e
