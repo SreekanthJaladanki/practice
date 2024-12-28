@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+END OF THE SESSION Thank you sir.
+This is the line added by Ranjit Patnaik.
+=======
 END THE SESSION Thank you sir.
+>>>>>>> b964422a34c93d67d59340b72714911bea82a3ff
 
 good mornig!
 Very good morning.
 HELLO
 BKS is here
+
+This is the line added by Ranjit Patnaik on 28Dec.
